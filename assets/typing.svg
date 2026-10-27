@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="70" viewBox="0 0 780 70" role="img" aria-labelledby="title">
+  <title id="title">Building reliable AI agents. Exploring 3D change detection.</title>
+  <defs>
+    <clipPath id="line1"><rect x="50" y="10" width="680" height="48"><animate attributeName="width" values="0;680;680;0;0" keyTimes="0;.30;.46;.50;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="line2"><rect x="50" y="10" width="680" height="48"><animate attributeName="width" values="0;0;680;680;0" keyTimes="0;.50;.80;.96;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+  </defs>
+  <rect x="1" y="1" width="778" height="68" rx="11" fill="#0b1426" stroke="#20334e"/>
+  <text x="24" y="44" font-family="Consolas,monospace" font-size="24" fill="#7dd3fc">&gt;</text>
+  <g fill="#7dd3fc" font-family="Consolas,monospace" font-size="24">
+    <g clip-path="url(#line1)"><text x="52" y="44">Building reliable AI agents.</text><text x="461" y="44">_ <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></text></g>
+    <g clip-path="url(#line2)" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.49;.50;.99;1" dur="12s" repeatCount="indefinite"/><text x="52" y="44">Exploring 3D change detection.</text><text x="488" y="44">_ <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></text></g>
+  </g>
+</svg>

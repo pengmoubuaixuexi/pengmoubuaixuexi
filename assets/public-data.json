@@ -1,0 +1,78 @@
+{
+  "owner": "pengmoubuaixuexi",
+  "updatedAt": "2026-10-27T06:06:35Z",
+  "scope": "Public owner repositories; forks and this profile repository excluded",
+  "repositories": 6,
+  "stars": 191,
+  "forks": 7,
+  "followers": 11,
+  "languages": {
+    "Java": 5651605,
+    "HTML": 524936,
+    "C++": 355164,
+    "JavaScript": 324216,
+    "Python": 74732,
+    "PowerShell": 47240,
+    "Inno Setup": 4425,
+    "Dockerfile": 3547,
+    "CSS": 3206,
+    "Shell": 1879,
+    "C": 765
+  },
+  "projects": [
+    {
+      "name": "clouding",
+      "stars": 0,
+      "forks": 0,
+      "languageBytes": {}
+    },
+    {
+      "name": "ListaryBrowserPlugin",
+      "stars": 0,
+      "forks": 0,
+      "languageBytes": {
+        "C++": 355164,
+        "PowerShell": 42623,
+        "Inno Setup": 4425,
+        "C": 765
+      }
+    },
+    {
+      "name": "Logistics-management",
+      "stars": 0,
+      "forks": 0,
+      "languageBytes": {
+        "Java": 140314
+      }
+    },
+    {
+      "name": "Python-Learning-Path-Phase1",
+      "stars": 2,
+      "forks": 0,
+      "languageBytes": {
+        "Python": 2997
+      }
+    },
+    {
+      "name": "SRGCD",
+      "stars": 1,
+      "forks": 0,
+      "languageBytes": {}
+    },
+    {
+      "name": "TAgent",
+      "stars": 188,
+      "forks": 7,
+      "languageBytes": {
+        "Java": 5511291,
+        "HTML": 524936,
+        "JavaScript": 324216,
+        "Python": 71735,
+        "PowerShell": 4617,
+        "Dockerfile": 3547,
+        "CSS": 3206,
+        "Shell": 1879
+      }
+    }
+  ]
+}

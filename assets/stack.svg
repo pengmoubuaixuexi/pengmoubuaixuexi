@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="54" viewBox="0 0 980 54" role="img" aria-label="Java 17, Spring Boot, Spring AI, RAG, MCP, Docker, Python">
+  <title>Technologies used in my engineering work</title>
+  <g font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" text-anchor="middle">
+    <g fill="#f8fafc" stroke="#dbe4ee"><rect x="1" y="5" width="124" height="42" rx="8"/><rect x="137" y="5" width="156" height="42" rx="8"/><rect x="305" y="5" width="140" height="42" rx="8"/><rect x="457" y="5" width="100" height="42" rx="8"/><rect x="569" y="5" width="100" height="42" rx="8"/><rect x="681" y="5" width="135" height="42" rx="8"/><rect x="828" y="5" width="150" height="42" rx="8"/></g>
+    <g fill="#334155"><text x="63" y="32">Java 17</text><text x="215" y="32">Spring Boot</text><text x="375" y="32">Spring AI</text><text x="507" y="32">RAG</text><text x="619" y="32">MCP</text><text x="748" y="32">Docker</text><text x="903" y="32">Python</text></g>
+  </g>
+</svg>

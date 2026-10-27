@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Tao Peng — AI Agents, Backend Engineering and 3D Vision</title>
+  <desc id="desc">Building TAgent and researching 3D point cloud change detection with SRGCD.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2=".7"><stop stop-color="#081326"/><stop offset="1" stop-color="#11243f"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#818cf8"/></linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#7dd3fc" stroke-opacity=".055"/></pattern>
+    <marker id="arrow" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0 0L7 3.5L0 7" fill="none" stroke="#38bdf8"/></marker>
+  </defs>
+  <rect width="1200" height="320" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="18" fill="url(#grid)"/>
+  <path d="M30 0H1170Q1200 0 1200 30V36H0V30Q0 0 30 0" fill="url(#accent)" opacity=".07"/>
+  <rect x="46" y="53" width="4" height="204" rx="2" fill="url(#accent)"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="74" y="79" font-size="13" font-weight="600" letter-spacing="2.5" fill="#7dd3fc">ENGINEERING × RESEARCH</text>
+    <text x="70" y="150" font-size="64" font-weight="720" letter-spacing="-1.8" fill="#f8fafc">Tao Peng</text>
+    <text x="74" y="190" font-size="21" fill="#dbeafe">AI Agents · Backend Engineering · 3D Vision</text>
+    <text x="74" y="230" font-size="15" fill="#94a3b8">Building practical systems. Exploring intelligent workflows.</text>
+    <text x="74" y="276" font-size="13" fill="#7b93b3">github.com/pengmoubuaixuexi</text>
+    <g transform="translate(760 74)">
+      <path d="M78 44H144M222 44H284M322 72V114M284 144H222M144 144H78" fill="none" stroke="#38bdf8" stroke-opacity=".7" marker-end="url(#arrow)"/>
+      <g fill="#0a192e" stroke="#294461">
+        <rect y="16" width="94" height="56" rx="10"/>
+        <rect x="144" y="16" width="94" height="56" rx="10"/>
+        <rect x="284" y="16" width="94" height="56" rx="10"/>
+        <rect x="284" y="116" width="94" height="56" rx="10"/>
+        <rect x="144" y="116" width="94" height="56" rx="10"/>
+        <rect y="116" width="94" height="56" rx="10"/>
+      </g>
+      <g fill="#e2e8f0" font-size="14" font-weight="600" text-anchor="middle">
+        <text x="47" y="50">Request</text><text x="191" y="50">Route</text><text x="331" y="50">Plan</text>
+        <text x="331" y="150">Execute</text><text x="191" y="150">Observe</text><text x="47" y="150">Improve</text>
+      </g>
+      <text x="189" y="210" text-anchor="middle" fill="#6f8aaa" font-size="12" letter-spacing="1">TAGENT · SRGCD</text>
+    </g>
+  </g>
+</svg>
