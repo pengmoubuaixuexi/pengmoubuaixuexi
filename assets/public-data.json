@@ -1,78 +1,56 @@
 {
   "owner": "pengmoubuaixuexi",
-  "updatedAt": "2026-10-30T08:44:47Z",
-  "scope": "Public owner repositories; forks and this profile repository excluded",
-  "repositories": 6,
-  "stars": 195,
-  "forks": 7,
-  "followers": 11,
-  "languages": {
-    "Java": 5762387,
-    "HTML": 528061,
-    "C++": 355164,
-    "JavaScript": 332441,
-    "Python": 74986,
-    "PowerShell": 47240,
-    "Inno Setup": 4425,
-    "Dockerfile": 3547,
-    "CSS": 3206,
-    "Shell": 1879,
-    "C": 765
-  },
-  "projects": [
+  "updatedAt": "2026-10-30T10:41:04Z",
+  "flagship": "TAgent",
+  "flagshipStars": 192,
+  "mergedPullRequests": 6,
+  "scope": "Merged pull requests authored by the owner in repositories the owner does not own",
+  "pullRequests": [
     {
-      "name": "clouding",
-      "stars": 0,
-      "forks": 0,
-      "languageBytes": {}
+      "repo": "agentscope-ai/agentscope-java",
+      "number": 3784,
+      "title": "fix(a2a): preserve completed status update messages",
+      "url": "https://github.com/agentscope-ai/agentscope-java/pull/3784",
+      "mergedAt": "2026-10-27T03:43:02Z"
     },
     {
-      "name": "ListaryBrowserPlugin",
-      "stars": 0,
-      "forks": 0,
-      "languageBytes": {
-        "C++": 355164,
-        "PowerShell": 42623,
-        "Inno Setup": 4425,
-        "C": 765
-      }
+      "repo": "agentscope-ai/agentscope-java",
+      "number": 3538,
+      "title": "fix(harness): count pruning budgets per tool result",
+      "url": "https://github.com/agentscope-ai/agentscope-java/pull/3538",
+      "mergedAt": "2026-10-14T03:33:32Z"
     },
     {
-      "name": "Logistics-management",
-      "stars": 0,
-      "forks": 0,
-      "languageBytes": {
-        "Java": 140314
-      }
+      "repo": "agentscope-ai/agentscope-java",
+      "number": 3220,
+      "title": "fix(jdbc): return unconditional write versions atomically",
+      "url": "https://github.com/agentscope-ai/agentscope-java/pull/3220",
+      "mergedAt": "2026-09-21T08:48:31Z"
     },
     {
-      "name": "Python-Learning-Path-Phase1",
-      "stars": 2,
-      "forks": 0,
-      "languageBytes": {
-        "Python": 2997
-      }
+      "repo": "agentscope-ai/agentscope-java",
+      "number": 3149,
+      "title": "fix(core): handle synchronous failures in model fallback",
+      "url": "https://github.com/agentscope-ai/agentscope-java/pull/3149",
+      "mergedAt": "2026-09-15T14:08:30Z"
     },
     {
-      "name": "SRGCD",
-      "stars": 1,
-      "forks": 0,
-      "languageBytes": {}
+      "repo": "agentscope-ai/agentscope-java",
+      "number": 3128,
+      "title": "fix(core): retain reasoning details from all streaming chunks",
+      "url": "https://github.com/agentscope-ai/agentscope-java/pull/3128",
+      "mergedAt": "2026-09-13T07:44:48Z"
     },
     {
-      "name": "TAgent",
-      "stars": 192,
-      "forks": 7,
-      "languageBytes": {
-        "Java": 5622073,
-        "HTML": 528061,
-        "JavaScript": 332441,
-        "Python": 71989,
-        "PowerShell": 4617,
-        "Dockerfile": 3547,
-        "CSS": 3206,
-        "Shell": 1879
-      }
+      "repo": "spring-projects/spring-ai",
+      "number": 6953,
+      "title": "Copy message lists when saving in-memory chat history",
+      "url": "https://github.com/spring-projects/spring-ai/pull/6953",
+      "mergedAt": "2026-09-10T11:25:47Z"
     }
-  ]
+  ],
+  "repoStars": {
+    "agentscope-ai/agentscope-java": 6196,
+    "spring-projects/spring-ai": 9605
+  }
 }
