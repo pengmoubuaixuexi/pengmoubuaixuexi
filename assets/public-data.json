@@ -1,11 +1,18 @@
 {
   "owner": "pengmoubuaixuexi",
-  "updatedAt": "2026-11-02T09:37:59Z",
+  "updatedAt": "2026-11-03T09:41:12Z",
   "flagship": "TAgent",
-  "flagshipStars": 192,
-  "mergedPullRequests": 6,
+  "flagshipStars": 194,
+  "mergedPullRequests": 7,
   "scope": "Merged pull requests authored by the owner in repositories the owner does not own",
   "pullRequests": [
+    {
+      "repo": "agentscope-ai/agentscope-java",
+      "number": 3912,
+      "title": "fix(harness): close index connections when initialization fails",
+      "url": "https://github.com/agentscope-ai/agentscope-java/pull/3912",
+      "mergedAt": "2026-11-03T03:49:10Z"
+    },
     {
       "repo": "agentscope-ai/agentscope-java",
       "number": 3784,
@@ -50,7 +57,7 @@
     }
   ],
   "repoStars": {
-    "agentscope-ai/agentscope-java": 6217,
-    "spring-projects/spring-ai": 9611
+    "spring-projects/spring-ai": 9616,
+    "agentscope-ai/agentscope-java": 6231
   }
 }
