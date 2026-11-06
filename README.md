@@ -41,6 +41,7 @@ Fixes sent back to the agent frameworks TAgent is built on — all merged.
 
 **[agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java)**
 
+- [#4009](https://github.com/agentscope-ai/agentscope-java/pull/4009) fix(agui): preserve URL media alongside reasoning
 - [#3912](https://github.com/agentscope-ai/agentscope-java/pull/3912) fix(harness): close index connections when initialization fails
 - [#3784](https://github.com/agentscope-ai/agentscope-java/pull/3784) fix(a2a): preserve completed status update messages
 - [#3538](https://github.com/agentscope-ai/agentscope-java/pull/3538) fix(harness): count pruning budgets per tool result
