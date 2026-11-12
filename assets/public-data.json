@@ -1,9 +1,9 @@
 {
   "owner": "pengmoubuaixuexi",
-  "updatedAt": "2026-11-11T09:33:48Z",
+  "updatedAt": "2026-11-12T09:56:29Z",
   "flagship": "TAgent",
   "flagshipStars": 199,
-  "mergedPullRequests": 8,
+  "mergedPullRequests": 9,
   "scope": "Merged pull requests authored by the owner in repositories the owner does not own",
   "pullRequests": [
     {
@@ -26,6 +26,13 @@
       "title": "fix(a2a): preserve completed status update messages",
       "url": "https://github.com/agentscope-ai/agentscope-java/pull/3784",
       "mergedAt": "2026-10-27T03:43:02Z"
+    },
+    {
+      "repo": "agentscope-ai/agentscope-java",
+      "number": 3643,
+      "title": "fix(protocol): serialize concurrent task submissions",
+      "url": "https://github.com/agentscope-ai/agentscope-java/pull/3643",
+      "mergedAt": "2026-11-11T10:46:39Z"
     },
     {
       "repo": "agentscope-ai/agentscope-java",
@@ -64,7 +71,7 @@
     }
   ],
   "repoStars": {
-    "spring-projects/spring-ai": 9638,
-    "agentscope-ai/agentscope-java": 6332
+    "agentscope-ai/agentscope-java": 6348,
+    "spring-projects/spring-ai": 9639
   }
 }

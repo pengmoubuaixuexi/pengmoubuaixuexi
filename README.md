@@ -41,6 +41,7 @@ Fixes sent back to the agent frameworks TAgent is built on — all merged.
 
 **[agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java)**
 
+- [#3643](https://github.com/agentscope-ai/agentscope-java/pull/3643) fix(protocol): serialize concurrent task submissions
 - [#4009](https://github.com/agentscope-ai/agentscope-java/pull/4009) fix(agui): preserve URL media alongside reasoning
 - [#3912](https://github.com/agentscope-ai/agentscope-java/pull/3912) fix(harness): close index connections when initialization fails
 - [#3784](https://github.com/agentscope-ai/agentscope-java/pull/3784) fix(a2a): preserve completed status update messages
