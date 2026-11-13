@@ -1,9 +1,9 @@
 {
   "owner": "pengmoubuaixuexi",
-  "updatedAt": "2026-11-12T09:56:29Z",
+  "updatedAt": "2026-11-13T09:41:41Z",
   "flagship": "TAgent",
   "flagshipStars": 199,
-  "mergedPullRequests": 9,
+  "mergedPullRequests": 10,
   "scope": "Merged pull requests authored by the owner in repositories the owner does not own",
   "pullRequests": [
     {
@@ -33,6 +33,13 @@
       "title": "fix(protocol): serialize concurrent task submissions",
       "url": "https://github.com/agentscope-ai/agentscope-java/pull/3643",
       "mergedAt": "2026-11-11T10:46:39Z"
+    },
+    {
+      "repo": "agentscope-ai/agentscope-java",
+      "number": 3597,
+      "title": "fix(harness): close snapshot archives when workspace setup fails",
+      "url": "https://github.com/agentscope-ai/agentscope-java/pull/3597",
+      "mergedAt": "2026-11-12T15:01:59Z"
     },
     {
       "repo": "agentscope-ai/agentscope-java",
@@ -71,7 +78,7 @@
     }
   ],
   "repoStars": {
-    "agentscope-ai/agentscope-java": 6348,
-    "spring-projects/spring-ai": 9639
+    "agentscope-ai/agentscope-java": 6362,
+    "spring-projects/spring-ai": 9642
   }
 }
