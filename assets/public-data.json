@@ -1,8 +1,8 @@
 {
   "owner": "pengmoubuaixuexi",
-  "updatedAt": "2026-11-14T09:04:48Z",
+  "updatedAt": "2026-11-15T09:35:37Z",
   "flagship": "TAgent",
-  "flagshipStars": 200,
+  "flagshipStars": 203,
   "mergedPullRequests": 10,
   "scope": "Merged pull requests authored by the owner in repositories the owner does not own",
   "pullRequests": [
@@ -78,7 +78,7 @@
     }
   ],
   "repoStars": {
-    "spring-projects/spring-ai": 9644,
-    "agentscope-ai/agentscope-java": 6365
+    "spring-projects/spring-ai": 9648,
+    "agentscope-ai/agentscope-java": 6370
   }
 }
