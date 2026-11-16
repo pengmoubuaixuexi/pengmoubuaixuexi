@@ -1,6 +1,6 @@
 {
   "owner": "pengmoubuaixuexi",
-  "updatedAt": "2026-11-15T09:35:37Z",
+  "updatedAt": "2026-11-16T09:53:33Z",
   "flagship": "TAgent",
   "flagshipStars": 203,
   "mergedPullRequests": 10,
@@ -78,7 +78,7 @@
     }
   ],
   "repoStars": {
-    "spring-projects/spring-ai": 9648,
-    "agentscope-ai/agentscope-java": 6370
+    "spring-projects/spring-ai": 9652,
+    "agentscope-ai/agentscope-java": 6383
   }
 }
