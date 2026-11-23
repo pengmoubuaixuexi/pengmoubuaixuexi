@@ -1,11 +1,18 @@
 {
   "owner": "pengmoubuaixuexi",
-  "updatedAt": "2026-11-22T09:53:52Z",
+  "updatedAt": "2026-11-23T10:53:52Z",
   "flagship": "TAgent",
-  "flagshipStars": 204,
-  "mergedPullRequests": 10,
+  "flagshipStars": 205,
+  "mergedPullRequests": 11,
   "scope": "Merged pull requests authored by the owner in repositories the owner does not own",
   "pullRequests": [
+    {
+      "repo": "agentscope-ai/agentscope-java",
+      "number": 4328,
+      "title": "fix(feishu): preserve thread routing for batch sends",
+      "url": "https://github.com/agentscope-ai/agentscope-java/pull/4328",
+      "mergedAt": "2026-11-23T03:51:45Z"
+    },
     {
       "repo": "agentscope-ai/agentscope-java",
       "number": 4009,
@@ -78,7 +85,7 @@
     }
   ],
   "repoStars": {
-    "spring-projects/spring-ai": 9665,
-    "agentscope-ai/agentscope-java": 6447
+    "spring-projects/spring-ai": 9672,
+    "agentscope-ai/agentscope-java": 6461
   }
 }
