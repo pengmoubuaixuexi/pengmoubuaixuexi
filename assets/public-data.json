@@ -1,9 +1,9 @@
 {
   "owner": "pengmoubuaixuexi",
-  "updatedAt": "2026-11-23T10:53:52Z",
+  "updatedAt": "2026-11-24T12:37:25Z",
   "flagship": "TAgent",
-  "flagshipStars": 205,
-  "mergedPullRequests": 11,
+  "flagshipStars": 204,
+  "mergedPullRequests": 12,
   "scope": "Merged pull requests authored by the owner in repositories the owner does not own",
   "pullRequests": [
     {
@@ -12,6 +12,13 @@
       "title": "fix(feishu): preserve thread routing for batch sends",
       "url": "https://github.com/agentscope-ai/agentscope-java/pull/4328",
       "mergedAt": "2026-11-23T03:51:45Z"
+    },
+    {
+      "repo": "agentscope-ai/agentscope-java",
+      "number": 4036,
+      "title": "fix(agui): preserve document tool error round trips",
+      "url": "https://github.com/agentscope-ai/agentscope-java/pull/4036",
+      "mergedAt": "2026-11-24T08:38:38Z"
     },
     {
       "repo": "agentscope-ai/agentscope-java",
@@ -85,7 +92,7 @@
     }
   ],
   "repoStars": {
-    "spring-projects/spring-ai": 9672,
-    "agentscope-ai/agentscope-java": 6461
+    "agentscope-ai/agentscope-java": 6470,
+    "spring-projects/spring-ai": 9682
   }
 }
