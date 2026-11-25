@@ -1,9 +1,9 @@
 {
   "owner": "pengmoubuaixuexi",
-  "updatedAt": "2026-11-24T12:37:25Z",
+  "updatedAt": "2026-11-25T11:27:10Z",
   "flagship": "TAgent",
   "flagshipStars": 204,
-  "mergedPullRequests": 12,
+  "mergedPullRequests": 13,
   "scope": "Merged pull requests authored by the owner in repositories the owner does not own",
   "pullRequests": [
     {
@@ -12,6 +12,13 @@
       "title": "fix(feishu): preserve thread routing for batch sends",
       "url": "https://github.com/agentscope-ai/agentscope-java/pull/4328",
       "mergedAt": "2026-11-23T03:51:45Z"
+    },
+    {
+      "repo": "agentscope-ai/agentscope-java",
+      "number": 4139,
+      "title": "fix(harness): propagate replay log write failures",
+      "url": "https://github.com/agentscope-ai/agentscope-java/pull/4139",
+      "mergedAt": "2026-11-25T09:54:46Z"
     },
     {
       "repo": "agentscope-ai/agentscope-java",
@@ -92,7 +99,7 @@
     }
   ],
   "repoStars": {
-    "agentscope-ai/agentscope-java": 6470,
-    "spring-projects/spring-ai": 9682
+    "spring-projects/spring-ai": 9684,
+    "agentscope-ai/agentscope-java": 6476
   }
 }

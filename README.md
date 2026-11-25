@@ -41,6 +41,7 @@ Fixes sent back to the agent frameworks TAgent is built on — all merged.
 
 **[agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java)**
 
+- [#4139](https://github.com/agentscope-ai/agentscope-java/pull/4139) fix(harness): propagate replay log write failures
 - [#4036](https://github.com/agentscope-ai/agentscope-java/pull/4036) fix(agui): preserve document tool error round trips
 - [#4328](https://github.com/agentscope-ai/agentscope-java/pull/4328) fix(feishu): preserve thread routing for batch sends
 - [#3597](https://github.com/agentscope-ai/agentscope-java/pull/3597) fix(harness): close snapshot archives when workspace setup fails
